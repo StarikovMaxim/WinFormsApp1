@@ -127,7 +127,7 @@ namespace WinFormsApp1
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(214, 43);
             this.button2.TabIndex = 8;
-            this.button2.Text = "Start";
+            this.button2.Text = "End";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // Form1
